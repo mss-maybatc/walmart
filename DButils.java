@@ -1,5 +1,5 @@
-Hello Guy!
+Hello Guys!
 
-this is the java file which contains DB connection logic
+This is the java file which contains DB connection logic
 
 
